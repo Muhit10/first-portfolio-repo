@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 46px;
 }
 
 .name-color {
@@ -20,15 +20,24 @@ section {
 }
 
 div img {
-    width: 70%;
+    width: 80%;
 }
 
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 5px 18px;
+    padding: 4px 12px;
     border-radius: 5px;
     color: azure;
     font-weight: 700;
 
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
 }
