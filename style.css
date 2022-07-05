@@ -41,3 +41,8 @@ div img {
 body {
     margin: 0;
 }
+
+.header-font {
+    font-size: 40px;
+    font-weight: 700;
+}
